@@ -1,0 +1,8 @@
+.btn-moises {
+    background: orangered;
+    color: white;
+    }
+    .btn-moises:hover {
+        background: orange;
+        color: red;
+        }
