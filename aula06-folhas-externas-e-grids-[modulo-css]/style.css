@@ -1,0 +1,50 @@
+#geral {
+    margin: 10px auto;
+    width: 50%;
+    height: auto;
+    /* background: #0f0; */
+    }
+
+    .secao {
+        margin: 10px;
+        width: 100%;
+        /* background: #00f; */
+        float: left;
+        }
+        .box {
+            margin: 10px;
+            width: 100px;
+            height: 100px;
+            background: #000;
+            border-radius: 20px;
+            float: left;
+            }
+
+            .box img {
+                width: 100px;
+                height: 100px;
+                border-radius: 20px;
+                opacity: 0.5;
+                z-index: 9;
+                transition: all 0.2s;
+                }
+
+                .box img:hover {
+                    opacity: 1;
+                    transition: all 0.2s;
+                    }
+
+                .box h2 {
+                    margin: -40px 0 0 0;
+                    text-align: center;
+                    width: 100px;
+                    height: 100px;
+                    position: absolute;
+                    z-index: 10;
+                    color: #fff;
+                    opacity: 1 !important;
+                    font-size: 20px;
+                    font-family: 'Trebuchet MS';
+                    }
+
+        

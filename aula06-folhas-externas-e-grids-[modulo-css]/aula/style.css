@@ -1,0 +1,15 @@
+#colunas {
+    /* width: 100%; */
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr; /* aqui iremos dividir em colunas */
+    }
+
+    .bloco {
+        /* background: #f00; */
+        margin: 1%;
+        }
+
+        .bloco img {
+            width: 100%;
+            border-radius: 20px;
+            }
