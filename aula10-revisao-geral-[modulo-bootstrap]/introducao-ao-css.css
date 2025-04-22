@@ -1,0 +1,22 @@
+/* 
+    seletor de tag              h1, p, img, table, form...
+    seletor de classe           .class
+    seletor de id               #id
+*/
+h1 {
+    color: brown;
+    }
+
+    .titulo {
+        background: brown;
+        color: white;
+        padding: 5px 10px;
+        width: 100%;
+        font-size: 24px;
+        }
+
+        #egoista {
+            color: red;
+            background: black;
+            padding: 20px;
+            }

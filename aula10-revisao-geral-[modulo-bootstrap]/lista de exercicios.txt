@@ -1,0 +1,29 @@
+Aproveitando para *lembrá-los das atividades pendentes* para que eu possa _lançar as notas de todos vocês_ nos quatro primeiros módulos:
+
+> Sintaxe, Textos e Formatações:
+- Currículo Pessoal;
+
+> Links, Botoes e Imagens:
+- Landing page I do Batman com Lorem Ipsum;
+- Landing page II do Batman com textos do PDF;
+
+> Tabelas:
+- Tabela periódica
+- Tabela do Campeonato Brasileiro de 2023;
+
+> Formulários:
+- Formulário da página de Login do Facebook;
+- Formulário da página de Cadastro do Facebook;
+
+> Introducao a Folha de Estilos e Folhas Externas:
+- Tela inicial de login do app da girafa;
+- Página interna do app da girafa;
+
+> Folhas de Estilos, Breakpoints e Grids:
+- Hotsite dos Sons dos Animais;
+
+> Instalacao, Componentes, Grids e Breakpoints do Bootstrap:
+- Loja Virtual da Kadosh (Página Inicial e páginas internas).
+
+> Github Web, desktop e terminal:
+- Publicação de todos os projetos em repositórios separados, com seus devidos commits, bem como o arquivo README explicando o processo de cada um.

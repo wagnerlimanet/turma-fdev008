@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    background: #742fc2;
+    }
+
+/* início propriedades gerais ou globais */
+.topm {
+    margin-top: 10px;
+    }
+.dirm {
+    margin-right: 10px;
+    }
+.botm {
+    margin-bottom: 10px;
+    }
+.esqm {
+    margin-left: 10px;
+    }
+/* fim propriedades gerais ou globais */
+    .container, nav, header, .banner, .section {
+        width: 100%;
+        }
+        .logotipo {
+            padding: 10px 25%;
+            width: 45%;
+            }
+
+    section {
+        padding: 5%;
+        }
+        .blocobotao {
+            margin: 5%;
+            width: 40%;
+            height: 160px;
+            background: #fff;
+            border-radius: 10%;
+            float: left;
+            }
+
+            .blocobotao img {
+                margin: 15% 0 0 30%;
+                width: 40%;
+                }
+
+            .blocobotao h2 {
+                margin: 10%;
+                padding: 5px;
+                width: 70%;
+                font-family: Trebuchet MS;
+                font-size: 16px;
+                color: #333;
+                text-align: center;
+                font-weight: lighter;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                }
+
+
